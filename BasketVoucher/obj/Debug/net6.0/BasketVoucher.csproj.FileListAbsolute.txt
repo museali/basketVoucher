@@ -1,0 +1,14 @@
+C:\Users\muse\Desktop\BasketVoucher\BasketVoucher\obj\Debug\net6.0\BasketVoucher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muse\Desktop\BasketVoucher\BasketVoucher\obj\Debug\net6.0\BasketVoucher.AssemblyInfoInputs.cache
+C:\Users\muse\Desktop\BasketVoucher\BasketVoucher\obj\Debug\net6.0\BasketVoucher.AssemblyInfo.cs
+C:\Users\muse\Desktop\BasketVoucher\BasketVoucher\obj\Debug\net6.0\BasketVoucher.csproj.CoreCompileInputs.cache
+C:\Users\muse\Desktop\BasketVoucher\BasketVoucher\bin\Debug\net6.0\BasketVoucher.exe
+C:\Users\muse\Desktop\BasketVoucher\BasketVoucher\bin\Debug\net6.0\BasketVoucher.deps.json
+C:\Users\muse\Desktop\BasketVoucher\BasketVoucher\bin\Debug\net6.0\BasketVoucher.runtimeconfig.json
+C:\Users\muse\Desktop\BasketVoucher\BasketVoucher\bin\Debug\net6.0\BasketVoucher.dll
+C:\Users\muse\Desktop\BasketVoucher\BasketVoucher\bin\Debug\net6.0\BasketVoucher.pdb
+C:\Users\muse\Desktop\BasketVoucher\BasketVoucher\obj\Debug\net6.0\BasketVoucher.dll
+C:\Users\muse\Desktop\BasketVoucher\BasketVoucher\obj\Debug\net6.0\refint\BasketVoucher.dll
+C:\Users\muse\Desktop\BasketVoucher\BasketVoucher\obj\Debug\net6.0\BasketVoucher.pdb
+C:\Users\muse\Desktop\BasketVoucher\BasketVoucher\obj\Debug\net6.0\BasketVoucher.genruntimeconfig.cache
+C:\Users\muse\Desktop\BasketVoucher\BasketVoucher\obj\Debug\net6.0\ref\BasketVoucher.dll
